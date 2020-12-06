@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FRAGMENTS</string>
+    <string name="textview">TextView</string>
+    <string name="send">send</string>
+    <string name="textview5">TextView</string>
+    <string name="EditText3">enter number</string>
+    <string name="button2">send</string>
+</resources>
